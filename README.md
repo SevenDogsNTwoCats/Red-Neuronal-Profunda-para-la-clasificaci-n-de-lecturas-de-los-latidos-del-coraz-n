@@ -13,4 +13,4 @@ El archivo contiene un arreglo nombrado “dnn_layers” con los datos de las ca
 
 
 
-Los datos para entrenar la red neuronal son x_train (atributos) y y_train (etiquetas).
+Los datos para entrenar la red neuronal en https://drive.google.com/drive/folders/1EmW_qaj1VhNa45A7R-leTDb6-mLl7Kk5?usp=drive_link
